@@ -132,7 +132,7 @@ Stores structured resume data like:
 
 ---
 
-## Run Locally
+## 👨🏻‍💻 Run Locally
 ```bash
 # Clone the project
 git clone https://github.com/paveshkanungo/codeCV-with-AI.git
